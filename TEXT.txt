@@ -6,3 +6,6 @@ THIS is Master
 
 Fixed Merge Conflicts 
 
+Adding qa features 
+
+
